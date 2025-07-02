@@ -1,0 +1,442 @@
+9
+The Weeknd
+After Hours
+2020
+4
+media/After_Hours.png
+14
+After Hours
+sounds/After_Hours/The_Weeknd_-_After_Hours.mp3
+6:01
+Alone Again
+sounds/After_Hours/The_Weeknd_-_Alone_Again.mp3
+4:10
+Blinding Lights
+sounds/After_Hours/The_Weeknd_-_Blinding_Lights.mp3
+3:21
+Escape From LA
+sounds/After_Hours/The_Weeknd_-_Escape_From_LA.mp3
+5:55
+Faith
+sounds/After_Hours/The_Weeknd_-_Faith.mp3
+4:43
+Hardest To Love
+sounds/After_Hours/The_Weeknd_-_Hardest_To_Love.mp3
+3:31
+Heartless
+sounds/After_Hours/The_Weeknd_-_Heartless.mp3
+3:18
+In Your Eyes
+sounds/After_Hours/The_Weeknd_-_In_Your_Eyes.mp3
+3:57
+Repeat After Me (Interlude)
+sounds/After_Hours/The_Weeknd_-_Repeat_After_Me_(Interlude).mp3
+3:15
+Save Your Tears
+sounds/After_Hours/The_Weeknd_-_Save_Your_Tears.mp3
+3:35
+Scared To Live
+sounds/After_Hours/The_Weeknd_-_Scared_To_Live.mp3
+3:11
+Snowchild
+sounds/After_Hours/The_Weeknd_-_Snowchild.mp3
+4:07
+Too Late
+sounds/After_Hours/The_Weeknd_-_Too_Late.mp3
+4:00
+Until I Bleed Out
+sounds/After_Hours/The_Weeknd_-_Until_I_Bleed_Out.mp3
+3:10
+Avicii
+Avicii Forever
+2025
+2
+media/Avicii_Forever.png
+19
+Addicted To You
+sounds/Avicii_Forever/Avicii_-_Addicted_To_You.mp3
+2:28
+Broken Arrows
+sounds/Avicii_Forever/Avicii_-_Broken_Arrows.mp3
+3:52
+Fade Into Darkness
+sounds/Avicii_Forever/Avicii_-_Fade_Into_Darkness.mp3
+3:18
+For A Better Day
+sounds/Avicii_Forever/Avicii_-_For_A_Better_Day.mp3
+3:26
+Heaven
+sounds/Avicii_Forever/Avicii_-_Heaven.mp3
+4:37
+Hey Brother
+sounds/Avicii_Forever/Avicii_-_Hey_Brother.mp3
+4:15
+Levels
+sounds/Avicii_Forever/Avicii_-_Levels_-_Radio_Edit.mp3
+3:21
+Silhouettes
+sounds/Avicii_Forever/Avicii_-_Silhouettes.mp3
+3:31
+The Days
+sounds/Avicii_Forever/Avicii_-_The_Days.mp3
+4:38
+The Nights
+sounds/Avicii_Forever/Avicii_-_The_Nights.mp3
+2:56
+Waiting For Love
+sounds/Avicii_Forever/Avicii_-_Waiting_For_Love.mp3
+3:52
+Wake Me Up
+sounds/Avicii_Forever/Avicii_-_Wake_Me_Up.mp3
+4:07
+You Make Me
+sounds/Avicii_Forever/Avicii_-_You_Make_Me.mp3
+3:53
+SOS
+sounds/Avicii_Forever/Avicii,_Aloe_Blacc_-_SOS.mp3
+2:37
+Let's Ride Away
+sounds/Avicii_Forever/Avicii,_Elle_King_-_Let's_Ride_Away.mp3
+2:53
+Heart Upon My Sleeve
+sounds/Avicii_Forever/Avicii,_Imagine_Dragons_-_Heart_Upon_My_Sleeve.mp3
+4:14
+I Could Be The One (Avicii Vs. Nicky Romero)
+sounds/Avicii_Forever/Avicii,_Nicky_Romero_-_I_Could_Be_The_One_(Avicii_Vs._Nicky_Romero)_-_Radio_Edit.mp3
+3:28
+Lonely Together
+sounds/Avicii_Forever/Avicii,_Rita_Ora_-_Lonely_Together.mp3
+3:01
+Without You
+sounds/Avicii_Forever/Avicii,_Sandro_Cavazza_-_Without_You.mp3
+3:01
+Ariana Grande
+Dangerous Woman
+2016
+1
+media/Dangerous_Woman.png
+17
+Bad Decisions
+sounds/Dangerous_Woman/Ariana_Grande_-_Bad_Decisions.mp3
+3:46
+Be Alright
+sounds/Dangerous_Woman/Ariana_Grande_-_Be_Alright.mp3
+2:59
+Dangerous Woman
+sounds/Dangerous_Woman/Ariana_Grande_-_Dangerous_Woman.mp3
+3:55
+Greedy
+sounds/Dangerous_Woman/Ariana_Grande_-_Greedy.mp3
+3:34
+I Don't Care
+sounds/Dangerous_Woman/Ariana_Grande_-_I_Don't_Care.mp3
+2:58
+Into You
+sounds/Dangerous_Woman/Ariana_Grande_-_Into_You.mp3
+4:04
+Jason's Song_(Gave It Away)
+sounds/Dangerous_Woman/Ariana_Grande_-_Jason's_Song_(Gave_It_Away).mp3
+4:24
+Knew Better / Forever Boy
+sounds/Dangerous_Woman/Ariana_Grande_-_Knew_Better__Forever_Boy.mp3
+4:59
+Moonlight
+sounds/Dangerous_Woman/Ariana_Grande_-_Moonlight.mp3
+3:22
+Sometimes
+sounds/Dangerous_Woman/Ariana_Grande_-_Sometimes.mp3
+3:46
+Step On Up
+sounds/Dangerous_Woman/Ariana_Grande_-_Step_On_Up.mp3
+3:00
+Thinking Bout You
+sounds/Dangerous_Woman/Ariana_Grande_-_Thinking_Bout_You.mp3
+3:20
+Touch It
+sounds/Dangerous_Woman/Ariana_Grande_-_Touch_It.mp3
+4:20
+Everyday
+sounds/Dangerous_Woman/Ariana_Grande,_Future_-_Everyday.mp3
+3:17
+Let Me Love You
+sounds/Dangerous_Woman/Ariana_Grande,_Lil_Wayne_-_Let_Me_Love_You.mp3
+3:43
+Leave Me Lonely
+sounds/Dangerous_Woman/Ariana_Grande,_Macy_Gray_-_Leave_Me_Lonely.mp3
+3:49
+Side To Side
+sounds/Dangerous_Woman/Ariana_Grande,_Nicki_Minaj_-_Side_To_Side.mp3
+3:48
+piri & tommy
+froge.mp3
+2022
+5
+media/froge.mp3.png
+12
+beachin
+sounds/froge.mp3/piri,_Tommy_Villiers,_piri_&_tommy_-_beachin.mp3
+3:14
+can we
+sounds/froge.mp3/piri,_Tommy_Villiers,_piri_&_tommy_-_can_we.mp3
+2:36
+easy
+sounds/froge.mp3/piri,_Tommy_Villiers,_piri_&_tommy_-_easy.mp3
+3:08
+on & on
+sounds/froge.mp3/piri,_Tommy_Villiers,_piri_&_tommy_-_on_&_on.mp3
+2:15
+player 2
+sounds/froge.mp3/piri,_Tommy_Villiers,_piri_&_tommy_-_player_2.mp3
+3:00
+say it
+sounds/froge.mp3/piri,_Tommy_Villiers,_piri_&_tommy_-_say_it.mp3
+2:58
+settle
+sounds/froge.mp3/piri,_Tommy_Villiers,_piri_&_tommy_-_settle.mp3
+2:42
+silver lining
+sounds/froge.mp3/piri,_Tommy_Villiers,_piri_&_tommy_-_silver_lining.mp3
+2:34
+slowly but surely
+sounds/froge.mp3/piri,_Tommy_Villiers,_piri_&_tommy_-_slowly_but_surely.mp3
+3:06
+soft spot
+sounds/froge.mp3/piri,_Tommy_Villiers,_piri_&_tommy_-_soft_spot.mp3
+3:39
+sunlight
+sounds/froge.mp3/piri,_Tommy_Villiers,_piri_&_tommy_-_sunlight.mp3
+3:14
+words
+sounds/froge.mp3/piri,_Tommy_Villiers,_piri_&_tommy_-_words.mp3
+3:09
+Eminem
+Recovery
+2010
+3
+media/Recovery.png
+17
+25 To Life
+sounds/Recovery/Eminem_-_25_To_Life.mp3
+4:01
+Almost Famous
+sounds/Recovery/Eminem_-_Almost_Famous.mp3
+4:52
+Cinderella Man
+sounds/Recovery/Eminem_-_Cinderella_Man.mp3
+4:39
+Cold Wind Blows
+sounds/Recovery/Eminem_-_Cold_Wind_Blows.mp3
+5:03
+Going Through Changes
+sounds/Recovery/Eminem_-_Going_Through_Changes.mp3
+4:58
+Not Afraid
+sounds/Recovery/Eminem_-_Not_Afraid.mp3
+4:08
+On Fire
+sounds/Recovery/Eminem_-_On_Fire.mp3
+3:33
+Seduction
+sounds/Recovery/Eminem_-_Seduction.mp3
+4:35
+So Bad
+sounds/Recovery/Eminem_-_So_Bad.mp3
+5:25
+Space Bound
+sounds/Recovery/Eminem_-_Space_Bound.mp3
+4:38
+Untitled
+sounds/Recovery/Eminem_-_Untitled.mp3
+3:14
+W.T.P.
+sounds/Recovery/Eminem_-_W.T.P..mp3
+3:58
+You’re Never Over
+sounds/Recovery/Eminem_-_You’re_Never_Over.mp3
+5:05
+Talkin’ 2 Myself
+sounds/Recovery/Eminem,_Kobe_Honeycutt_-_Talkin’_2_Myself.mp3
+5:00
+No Love
+sounds/Recovery/Eminem,_Lil_Wayne_-_No_Love.mp3
+5:00
+Won't Back Down
+sounds/Recovery/Eminem,_P!nk_-_Won't_Back_Down.mp3
+4:25
+Love The Way You Lie
+sounds/Recovery/Eminem,_Rihanna_-_Love_The_Way_You_Lie.mp3
+4:23
+Tate McRae
+So Close To What
+2025
+1
+media/So_Close_To_What.png
+16
+2 ands
+sounds/So_Close_To_What/Tate_McRae_-_2_hands.mp3
+3:02
+Dear god
+sounds/So_Close_To_What/Tate_McRae_-_Dear_god.mp3
+2:51
+Greenlight
+sounds/So_Close_To_What/Tate_McRae_-_Greenlight.mp3
+2:45
+It's ok I'm ok
+sounds/So_Close_To_What/Tate_McRae_-_It's_ok_I'm_ok.mp3
+2:36
+Like I do
+sounds/So_Close_To_What/Tate_McRae_-_Like_I_do.mp3
+3:02
+Means I care
+sounds/So_Close_To_What/Tate_McRae_-_Means_I_care.mp3
+2:55
+Miss possessive
+sounds/So_Close_To_What/Tate_McRae_-_Miss_possessive.mp3
+2:19
+No I'm not in love
+sounds/So_Close_To_What/Tate_McRae_-_No_I'm_not_in_love.mp3
+2:50
+Nostalgia
+sounds/So_Close_To_What/Tate_McRae_-_Nostalgia.mp3
+3:03
+Purple lace bra
+sounds/So_Close_To_What/Tate_McRae_-_Purple_lace_bra.mp3
+3:11
+Revolving door
+sounds/So_Close_To_What/Tate_McRae_-_Revolving_door.mp3
+3:00
+Signs
+sounds/So_Close_To_What/Tate_McRae_-_Signs.mp3
+2:53
+Siren sounds
+sounds/So_Close_To_What/Tate_McRae_-_Siren_sounds_(bonus).mp3
+3:03
+Sports car
+sounds/So_Close_To_What/Tate_McRae_-_Sports_car.mp3
+2:45
+bloodonmyhands (feat. Flo Milli)
+sounds/So_Close_To_What/Tate_McRae,_Flo_Milli_-_bloodonmyhands_(feat._Flo_Milli).mp3
+2:42
+I know love (feat. The Kid LAROI)
+sounds/So_Close_To_What/Tate_McRae,_The_Kid_LAROI_-_I_know_love_(feat._The_Kid_LAROI).mp3
+2:36
+Neoni
+Wars In A Wonderland
+2021
+1
+media/Wars_In_A_Wonderland.png
+8
+DARKSIDE
+sounds/Wars_In_A_Wonderland/Neoni_-_DARKSIDE.mp3
+2:48
+LOSER
+sounds/Wars_In_A_Wonderland/Neoni_-_LOSER.mp3
+3:22
+MACHINE
+sounds/Wars_In_A_Wonderland/Neoni_-_MACHINE.mp3
+3:09
+MUTINY
+sounds/Wars_In_A_Wonderland/Neoni_-_MUTINY.mp3
+3:31
+OUTLAW
+sounds/Wars_In_A_Wonderland/Neoni_-_OUTLAW.mp3
+3:18
+RIP
+sounds/Wars_In_A_Wonderland/Neoni_-_RIP.mp3
+3:03
+UH OH
+sounds/Wars_In_A_Wonderland/Neoni_-_UH_OH.mp3
+3:15
+WONDERLAND
+sounds/Wars_In_A_Wonderland/Neoni_-_WONDERLAND.mp3
+3:17
+Iggy Azalea
+The End Of An Era
+2021
+3
+media/The_End_Of_An_Era.png
+14
+Sirens
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_Sirens.mp3
+2:55
+Brazil
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_Brazil.mp3
+3:09
+Pillow Fight
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_Pillow_Fight.mp3
+2:47
+Emo Club Anthem
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_Emo_Club_Anthem.mp3
+2:50
+STFU
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_STFU.mp3
+2:31
+Iam The Stripclub
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_Iam_The_Stripclub.mp3
+2:48
+Nights Like This
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_Nights_Like_This.mp3
+2:33
+Woke Up (Diamonds)
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_Woke_Up_(Diamonds).mp3
+2:41
+Is That Right
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_Is_That_Right.mp3
+2:50
+XXXTRA
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_XXXTRA.mp3
+2:26
+Peach Body
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_Peach_Body.mp3
+3:09
+Sex on the Beach
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_Sex_on_the_Beach.mp3
+3:01
+Good Times With Bad People
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_Good_Times_With_Bad_People.mp3
+2:25
+Day 3 in Miami (The End of an Era)
+sounds/The_End_Of_An_Era/Iggy_Azalea_-_Day_3_in_Miami_(End_of_an_Era).mp3
+2:46
+Shawn Mendes
+Illuminate
+2017
+1
+media/Illuminate.png
+12
+There's Nothing Holdin' Me Back
+sounds/Illuminate/Shawn_Mendes_-_There's_Nothing_Holdin'_Me_Back.mp3
+3:19
+Ruin
+sounds/Illuminate/Shawn_Mendes_-_Ruin.mp3
+4:01
+Mercy
+sounds/Illuminate/Shawn_Mendes_-_Mercy.mp3
+3:28
+Treat You Better
+sounds/Illuminate/Shawn_Mendes_-_Treat_You_Better.mp3
+3:28
+Three Empty Words
+sounds/Illuminate/Shawn_Mendes_-_Three_Empty_Words.mp3
+3:19
+Don't Be A Fool
+sounds/Illuminate/Shawn_Mendes_-_Don't_Be_A_Fool.mp3
+3:35
+No Promises
+sounds/Illuminate/Shawn_Mendes_-_No_Promises.mp3
+2:46
+Lights On
+sounds/Illuminate/Shawn_Mendes_-_Lights_On.mp3
+3:21
+Honest
+sounds/Illuminate/Shawn_Mendes_-_Honest.mp3
+3:19
+Patience
+sounds/Illuminate/Shawn_Mendes_-_Patience.mp3
+2:55
+Bad Reputation
+sounds/Illuminate/Shawn_Mendes_-_Bad_Reputation.mp3
+3:18
+Understand
+sounds/Illuminate/Shawn_Mendes_-_Understand.mp3
+5:01
